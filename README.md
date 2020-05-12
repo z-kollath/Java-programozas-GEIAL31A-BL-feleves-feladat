@@ -1,2 +1,3 @@
 # Java-programozas-GEIAL31A-BL-feleves-feladat
 Java programozas (GEIAL31A-BL) feleves bedando feladat: 23.Hibabejelento: sorszam, idopont, bejelento neve, hiba leirasa, prioritas (1, 2, 3)
+A megkapott szerkezetű tábla létrehozása SQLite rendszerben. A létrehozott adatbázis egy informatikai hiba nyilvántartó rendszer, amelyben a létrehozott hibajegyeket automatikusan generált sorszámozás szerint azonosítjuk. Tovább tartalmazza a hiba bejelentés időpontját ami a létrehozás pillanatában hozzárendelt rendszer idő, a bejelentő nevét, a hiba definiálását, valamint prioritását (a probléma fontosságát jelzi): 1-alacsony, 2-közepes, 3-magas
